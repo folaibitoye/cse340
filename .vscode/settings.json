@@ -1,0 +1,30 @@
+{
+    "sqltools.connections": [
+        {
+            "pgOptions": {
+                "ssl": {
+                    "rejectUnauthorized": true
+                }
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "folaibitoye.com",
+            "connectString": "postgresql://folaibitoye:cKeI8K58yKBHFfgeBtyc2QXjZCMMt0AT@dpg-d359lmh5pdvs73bige60-a.oregon-postgres.render.com/cse340_4ffn"
+        },
+        {
+            "pgOptions": {
+                "ssl": {
+                    "rejectUnauthorized": true
+                }
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "folapeter.com",
+            "connectString": "postgresql://folaibitoye:cKeI8K58yKBHFfgeBtyc2QXjZCMMt0AT@dpg-d359lmh5pdvs73bige60-a.oregon-postgres.render.com/cse340_4ffn"
+        }
+    ]
+}
